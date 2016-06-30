@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context="com.example.android.tourguide.MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/sight"
+            style="@style/CategoryStyle"
+            android:background="@color/colorPrimaryDark"
+            android:text="@string/category_sight" />
+
+        <TextView
+            android:id="@+id/outdoor"
+            style="@style/CategoryStyle"
+            android:background="@color/colorPrimaryDark"
+            android:text="@string/category_outdoor" />
+
+        <TextView
+            android:id="@+id/nature"
+            style="@style/CategoryStyle"
+            android:background="@color/colorPrimaryDark"
+            android:text="@string/category_nature" />
+
+        <TextView
+            android:id="@+id/museums"
+            style="@style/CategoryStyle"
+            android:background="@color/colorPrimaryDark"
+            android:text="@string/category_museums" />
+    </LinearLayout>
+</ScrollView>

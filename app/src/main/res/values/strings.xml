@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="main_label"> Tour Guideline for Canberra </string>
+    <string name="category_museums"> Museums </string>
+    <string name="category_nature"> Nature and Parks </string>
+    <string name="category_sight"> Sights and Landmarks </string>
+    <string name="category_outdoor"> Outdoor Activities </string>
+    <string name="csiro"> CSIRO </string>
+    <string name="csiro_address">a/7 London Circuit, Canberra ACT 2601</string>
+    <string name="csiro_details">At the Commonwealth Scientific and Industrial Research Organisation (CSIRO), we shape the future. We do this by using science to solve real issues. Our research makes a difference to people, industry and the planet.</string>
+    <string name="hca"> High Court of Australia </string>
+    <string name="hca_address"> Parkes Pl, Parkes ACT 2600 </string>
+    <string name="carillon"> Carillon </string>
+    <string name="carillon_address"> Wendouree Dr, Parkes ACT 2600 </string>
+    <string name="parliament"> Australian Federal Parliament </string>
+    <string name="parliament_address"> Parliament House Canberra ACT 2600 </string>
+    <string name="war_memorial"> Australian War Memorial </string>
+    <string name="war_memorial_address"> Treloar Cres, Campbell ACT 2612 </string>
+    <string name="telstra"> Telstra Tower </string>
+    <string name="telstra_address"> 100 Black Mountain Dr, Acton ACT 2601 </string>
+    <string name="nla"> National Library of Australia </string>
+    <string name="nla_address"> Parkes Pl W, Canberra ACT 2600 </string>
+    <string name="nfsa"> National Film and Sound Archive </string>
+    <string name="nfsa_address"> 1 McCoy Circuit, Acton ACT 2601 </string>
+    <string name="floriade"> Floriade </string>
+    <string name="floriade_address"> Commonwealth Ave, Parkes ACT 2600 </string>
+    <string name="anu"> Australian National University </string>
+    <string name="aas"> Australian Academy of Science </string>
+    <string name="anzac"> ANZAC Parade </string>
+    <string name="golf"> Royal Canberra Golf Club </string>
+    <string name="skydive"> Skydive Oz </string>
+    <string name="anbg"> Australian National Botanic Garden </string>
+    <string name="naa"> National Archive of Australia</string>
+</resources>
